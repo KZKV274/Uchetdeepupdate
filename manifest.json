@@ -1,6 +1,6 @@
 {
   "name": "BRIDGE FULFILLMENT — Склад",
-  "short_name": "Склад",
+  "short_name": "BRIDGE Production",
   "description": "Учёт работы на складе одежды по сотрудникам, моделям и размерам",
   "start_url": "./index.html",
   "scope": "./",
